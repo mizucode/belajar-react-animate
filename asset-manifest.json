@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/belajar-react-animate/static/css/main.f21fb9e4.css",
+    "main.js": "/belajar-react-animate/static/js/main.b86f93ef.js",
+    "static/js/787.8d7fb8b0.chunk.js": "/belajar-react-animate/static/js/787.8d7fb8b0.chunk.js",
+    "index.html": "/belajar-react-animate/index.html",
+    "main.f21fb9e4.css.map": "/belajar-react-animate/static/css/main.f21fb9e4.css.map",
+    "main.b86f93ef.js.map": "/belajar-react-animate/static/js/main.b86f93ef.js.map",
+    "787.8d7fb8b0.chunk.js.map": "/belajar-react-animate/static/js/787.8d7fb8b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21fb9e4.css",
+    "static/js/main.b86f93ef.js"
+  ]
+}
